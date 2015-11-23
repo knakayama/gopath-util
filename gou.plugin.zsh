@@ -184,8 +184,8 @@ gou utility
 
 Commands:
 
-  rm    Remove gou repo(s) with peco style selecting
-  mk    Create gou repo
+  rm    Remove repo(s) on GOPATH with peco style selecting
+  mk    Create repository on GOPATH
 
 Run 'gou COMMAND -h' for more information on a command.
 EOT
